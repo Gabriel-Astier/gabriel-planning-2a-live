@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "calendar": "Cours",
+    "className": "2A",
+    "anchorMonday": "2026-09-07",
+    "lastSnapshot": "2026-09-11",
+    "syncedThrough": "2026-12-11",
+    "timezone": "Europe/Paris",
+    "lastSyncedAt": "2026-09-11T17:34:33+02:00"
+  },
+  "weeks": {
+    "A": [
+      [
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Italien LV2",
+          "teacher": "Stabile V.",
+          "room": "331",
+          "subject": "italien"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "100",
+          "subject": "maths"
+        },
+        {
+          "start": "13:30",
+          "end": "14:55",
+          "title": "Physique-chimie",
+          "teacher": "Nuffer J.",
+          "room": "D34",
+          "subject": "physique"
+        },
+        {
+          "start": "15:00",
+          "end": "16:30",
+          "title": "Sciences de la vie et de la Terre",
+          "teacher": "Sroda M.",
+          "room": "302",
+          "subject": "svt"
+        }
+      ],
+      [
+        {
+          "start": "08:10",
+          "end": "09:05",
+          "title": "Enseignement moral et civique",
+          "teacher": "Chardon M.",
+          "room": "321",
+          "subject": "emc"
+        },
+        {
+          "start": "09:05",
+          "end": "10:00",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "100",
+          "subject": "maths"
+        },
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "francais"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Temps d’échange",
+          "teacher": "—",
+          "room": "101",
+          "subject": "echange"
+        },
+        {
+          "start": "13:30",
+          "end": "14:25",
+          "title": "Anglais LV1",
+          "teacher": "Gay C.",
+          "room": "100",
+          "subject": "anglais"
+        },
+        {
+          "start": "14:25",
+          "end": "15:20",
+          "title": "Italien LV2",
+          "teacher": "Stabile V.",
+          "room": "331",
+          "subject": "italien"
+        },
+        {
+          "start": "15:35",
+          "end": "17:25",
+          "title": "Éducation physique et sportive",
+          "teacher": "Charchaude F.",
+          "room": "EPS",
+          "subject": "sport"
+        }
+      ],
+      [
+        {
+          "start": "08:10",
+          "end": "09:05",
+          "title": "Sciences numériques et technologie",
+          "teacher": "Moreau P.",
+          "room": "C25",
+          "subject": "tech"
+        },
+        {
+          "start": "09:05",
+          "end": "10:00",
+          "title": "Physique-chimie",
+          "teacher": "Nuffer J.",
+          "room": "100",
+          "subject": "physique"
+        },
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "francais"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Accompagnement personnalisé",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "ap"
+        },
+        {
+          "start": "13:30",
+          "end": "14:25",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "411",
+          "subject": "francais"
+        },
+        {
+          "start": "14:25",
+          "end": "15:20",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "415",
+          "subject": "maths"
+        },
+        {
+          "start": "15:35",
+          "end": "16:30",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "100",
+          "subject": "maths"
+        },
+        {
+          "start": "16:30",
+          "end": "17:25",
+          "title": "Accompagnement personnalisé",
+          "teacher": "Turcat G.",
+          "room": "100",
+          "subject": "ap"
+        }
+      ],
+      [
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Sciences économiques et sociales",
+          "teacher": "Dubois A.",
+          "room": "100",
+          "subject": "ses"
+        },
+        {
+          "start": "13:30",
+          "end": "14:25",
+          "title": "Anglais LV1",
+          "teacher": "Gay C.",
+          "room": "100",
+          "subject": "anglais"
+        },
+        {
+          "start": "14:25",
+          "end": "15:20",
+          "title": "Histoire-géographie",
+          "teacher": "Chardon M.",
+          "room": "100",
+          "subject": "histoire"
+        },
+        {
+          "start": "15:35",
+          "end": "16:30",
+          "title": "Italien LV2",
+          "teacher": "Stabile V.",
+          "room": "331",
+          "subject": "italien"
+        },
+        {
+          "start": "16:30",
+          "end": "17:25",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "francais"
+        }
+      ],
+      [
+        {
+          "start": "08:10",
+          "end": "10:00",
+          "title": "TTL",
+          "teacher": "—",
+          "room": "418",
+          "subject": "ttl"
+        },
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Sciences économiques et sociales",
+          "teacher": "Dubois A.",
+          "room": "100",
+          "subject": "ses"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Anglais LV1",
+          "teacher": "Gay C.",
+          "room": "317",
+          "subject": "anglais"
+        },
+        {
+          "start": "13:30",
+          "end": "15:20",
+          "title": "Histoire-géographie",
+          "teacher": "Chardon M.",
+          "room": "100",
+          "subject": "histoire"
+        },
+        {
+          "start": "15:35",
+          "end": "16:30",
+          "title": "Physique-chimie",
+          "teacher": "Nuffer J.",
+          "room": "D36",
+          "subject": "physique"
+        }
+      ]
+    ],
+    "B": [
+      [
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Italien LV2",
+          "teacher": "Stabile V.",
+          "room": "331",
+          "subject": "italien"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "100",
+          "subject": "maths"
+        },
+        {
+          "start": "13:30",
+          "end": "14:55",
+          "title": "Physique-chimie",
+          "teacher": "Nuffer J.",
+          "room": "D34",
+          "subject": "physique"
+        },
+        {
+          "start": "15:00",
+          "end": "16:30",
+          "title": "Sciences de la vie et de la Terre",
+          "teacher": "Sroda M.",
+          "room": "302",
+          "subject": "svt"
+        }
+      ],
+      [
+        {
+          "start": "09:05",
+          "end": "10:00",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "100",
+          "subject": "maths"
+        },
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "francais"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Temps d’échange",
+          "teacher": "—",
+          "room": "101",
+          "subject": "echange"
+        },
+        {
+          "start": "13:30",
+          "end": "14:25",
+          "title": "Anglais LV1",
+          "teacher": "Gay C.",
+          "room": "100",
+          "subject": "anglais"
+        },
+        {
+          "start": "14:25",
+          "end": "15:20",
+          "title": "Italien LV2",
+          "teacher": "Stabile V.",
+          "room": "331",
+          "subject": "italien"
+        },
+        {
+          "start": "15:35",
+          "end": "17:25",
+          "title": "Éducation physique et sportive",
+          "teacher": "Charchaude F.",
+          "room": "EPS",
+          "subject": "sport"
+        }
+      ],
+      [
+        {
+          "start": "08:10",
+          "end": "10:00",
+          "title": "Sciences numériques et technologie",
+          "teacher": "Moreau P.",
+          "room": "C25",
+          "subject": "tech"
+        },
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "francais"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Accompagnement personnalisé",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "ap"
+        },
+        {
+          "start": "13:30",
+          "end": "14:25",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "411",
+          "subject": "francais"
+        },
+        {
+          "start": "14:25",
+          "end": "15:20",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "415",
+          "subject": "maths"
+        },
+        {
+          "start": "15:35",
+          "end": "16:30",
+          "title": "Mathématiques",
+          "teacher": "Turcat G.",
+          "room": "100",
+          "subject": "maths"
+        }
+      ],
+      [
+        {
+          "start": "10:15",
+          "end": "11:10",
+          "title": "Sciences économiques et sociales",
+          "teacher": "Dubois A.",
+          "room": "100",
+          "subject": "ses"
+        },
+        {
+          "start": "13:30",
+          "end": "14:25",
+          "title": "Anglais LV1",
+          "teacher": "Gay C.",
+          "room": "100",
+          "subject": "anglais"
+        },
+        {
+          "start": "14:25",
+          "end": "15:20",
+          "title": "Histoire-géographie",
+          "teacher": "Chardon M.",
+          "room": "100",
+          "subject": "histoire"
+        },
+        {
+          "start": "15:35",
+          "end": "16:30",
+          "title": "Italien LV2",
+          "teacher": "Stabile V.",
+          "room": "331",
+          "subject": "italien"
+        },
+        {
+          "start": "16:30",
+          "end": "17:25",
+          "title": "Français",
+          "teacher": "Monange F.",
+          "room": "100",
+          "subject": "francais"
+        }
+      ],
+      [
+        {
+          "start": "08:10",
+          "end": "10:00",
+          "title": "TTL",
+          "teacher": "—",
+          "room": "418",
+          "subject": "ttl"
+        },
+        {
+          "start": "11:10",
+          "end": "12:05",
+          "title": "Anglais LV1",
+          "teacher": "Gay C.",
+          "room": "317",
+          "subject": "anglais"
+        },
+        {
+          "start": "13:30",
+          "end": "15:20",
+          "title": "Histoire-géographie",
+          "teacher": "Chardon M.",
+          "room": "100",
+          "subject": "histoire"
+        },
+        {
+          "start": "15:35",
+          "end": "16:30",
+          "title": "Physique-chimie",
+          "teacher": "Nuffer J.",
+          "room": "D36",
+          "subject": "physique"
+        }
+      ]
+    ]
+  },
+  "specialDates": {
+    "2026-09-02": [],
+    "2026-09-03": [],
+    "2026-09-04": [
+      {
+        "start": "11:10",
+        "end": "12:05",
+        "title": "Anglais LV1",
+        "teacher": "Gay C.",
+        "room": "317",
+        "subject": "anglais"
+      },
+      {
+        "start": "15:35",
+        "end": "16:30",
+        "title": "Physique-chimie",
+        "teacher": "Nuffer J.",
+        "room": "D36",
+        "subject": "physique"
+      }
+    ],
+    "2026-09-08": [
+      {
+        "start": "08:10",
+        "end": "09:05",
+        "title": "Enseignement moral et civique",
+        "teacher": "Chardon M.",
+        "room": "321",
+        "subject": "emc"
+      },
+      {
+        "start": "09:05",
+        "end": "10:00",
+        "title": "Mathématiques",
+        "teacher": "Turcat G.",
+        "room": "100",
+        "subject": "maths"
+      },
+      {
+        "start": "10:15",
+        "end": "11:10",
+        "title": "Français",
+        "teacher": "Monange F.",
+        "room": "100",
+        "subject": "francais"
+      },
+      {
+        "start": "13:30",
+        "end": "14:25",
+        "title": "Anglais LV1",
+        "teacher": "Gay C.",
+        "room": "100",
+        "subject": "anglais"
+      },
+      {
+        "start": "14:25",
+        "end": "15:20",
+        "title": "Italien LV2",
+        "teacher": "Stabile V.",
+        "room": "331",
+        "subject": "italien"
+      },
+      {
+        "start": "15:35",
+        "end": "17:25",
+        "title": "Éducation physique et sportive",
+        "teacher": "Charchaude F.",
+        "room": "EPS",
+        "subject": "sport"
+      }
+    ],
+    "2026-09-10": [
+      {
+        "start": "10:15",
+        "end": "11:10",
+        "title": "Sciences économiques et sociales",
+        "teacher": "Dubois A.",
+        "room": "100",
+        "subject": "ses"
+      },
+      {
+        "start": "13:30",
+        "end": "14:25",
+        "title": "Anglais LV1",
+        "teacher": "Gay C.",
+        "room": "100",
+        "subject": "anglais"
+      },
+      {
+        "start": "15:35",
+        "end": "16:30",
+        "title": "Italien LV2",
+        "teacher": "Stabile V.",
+        "room": "331",
+        "subject": "italien"
+      },
+      {
+        "start": "16:30",
+        "end": "17:25",
+        "title": "Français",
+        "teacher": "Monange F.",
+        "room": "100",
+        "subject": "francais"
+      }
+    ],
+    "2026-09-11": [
+      {
+        "start": "10:15",
+        "end": "11:10",
+        "title": "Sciences économiques et sociales",
+        "teacher": "Dubois A.",
+        "room": "100",
+        "subject": "ses"
+      },
+      {
+        "start": "11:10",
+        "end": "12:05",
+        "title": "Anglais LV1",
+        "teacher": "Gay C.",
+        "room": "317",
+        "subject": "anglais"
+      },
+      {
+        "start": "13:30",
+        "end": "15:20",
+        "title": "Histoire-géographie",
+        "teacher": "Chardon M.",
+        "room": "100",
+        "subject": "histoire"
+      },
+      {
+        "start": "15:35",
+        "end": "16:30",
+        "title": "Physique-chimie",
+        "teacher": "Nuffer J.",
+        "room": "D36",
+        "subject": "physique"
+      }
+    ],
+    "2026-09-14": [
+      {
+        "start": "10:15",
+        "end": "11:10",
+        "title": "Italien LV2",
+        "teacher": "Stabile V.",
+        "room": "331",
+        "subject": "italien"
+      },
+      {
+        "start": "11:10",
+        "end": "12:05",
+        "title": "Test Pos",
+        "teacher": "Turcat G.",
+        "room": "304",
+        "subject": "ap"
+      },
+      {
+        "start": "13:30",
+        "end": "14:55",
+        "title": "Physique-chimie",
+        "teacher": "Nuffer J.",
+        "room": "D34",
+        "subject": "physique"
+      },
+      {
+        "start": "15:00",
+        "end": "16:30",
+        "title": "Sciences de la vie et de la Terre",
+        "teacher": "Sroda M.",
+        "room": "302",
+        "subject": "svt"
+      }
+    ],
+    "2026-09-15": [
+      {
+        "start": "09:05",
+        "end": "10:00",
+        "title": "Mathématiques",
+        "teacher": "Turcat G.",
+        "room": "100",
+        "subject": "maths"
+      },
+      {
+        "start": "10:15",
+        "end": "11:10",
+        "title": "Français",
+        "teacher": "Monange F.",
+        "room": "100",
+        "subject": "francais"
+      },
+      {
+        "start": "14:25",
+        "end": "15:20",
+        "title": "Italien LV2",
+        "teacher": "Stabile V.",
+        "room": "331",
+        "subject": "italien"
+      },
+      {
+        "start": "15:35",
+        "end": "17:25",
+        "title": "Éducation physique et sportive",
+        "teacher": "Charchaude F.",
+        "room": "EPS",
+        "subject": "sport"
+      }
+    ],
+    "2026-09-16": [
+      {
+        "start": "08:10",
+        "end": "09:05",
+        "title": "Test Pos",
+        "teacher": "Moreau P.",
+        "room": "C25",
+        "subject": "ap"
+      },
+      {
+        "start": "09:05",
+        "end": "10:00",
+        "title": "Sciences numériques et technologie",
+        "teacher": "Moreau P.",
+        "room": "C25",
+        "subject": "tech"
+      },
+      {
+        "start": "10:15",
+        "end": "11:10",
+        "title": "Français",
+        "teacher": "Monange F.",
+        "room": "100",
+        "subject": "francais"
+      },
+      {
+        "start": "11:10",
+        "end": "12:05",
+        "title": "Accompagnement personnalisé",
+        "teacher": "Monange F.",
+        "room": "100",
+        "subject": "ap"
+      },
+      {
+        "start": "13:30",
+        "end": "14:25",
+        "title": "Français",
+        "teacher": "Monange F.",
+        "room": "411",
+        "subject": "francais"
+      },
+      {
+        "start": "14:25",
+        "end": "15:20",
+        "title": "Mathématiques",
+        "teacher": "Turcat G.",
+        "room": "415",
+        "subject": "maths"
+      },
+      {
+        "start": "15:35",
+        "end": "16:30",
+        "title": "Mathématiques",
+        "teacher": "Turcat G.",
+        "room": "100",
+        "subject": "maths"
+      }
+    ],
+    "2026-09-18": [
+      {
+        "start": "09:05",
+        "end": "10:00",
+        "title": "TTL",
+        "teacher": "—",
+        "room": "418",
+        "subject": "ttl"
+      },
+      {
+        "start": "11:10",
+        "end": "12:05",
+        "title": "Anglais LV1",
+        "teacher": "Gay C.",
+        "room": "317",
+        "subject": "anglais"
+      },
+      {
+        "start": "13:30",
+        "end": "15:20",
+        "title": "Histoire-géographie",
+        "teacher": "Chardon M.",
+        "room": "100",
+        "subject": "histoire"
+      },
+      {
+        "start": "15:35",
+        "end": "16:30",
+        "title": "Physique-chimie",
+        "teacher": "Nuffer J.",
+        "room": "D36",
+        "subject": "physique"
+      }
+    ]
+  }
+}

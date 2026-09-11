@@ -1,0 +1,13 @@
+{
+  "name": "Mon emploi du temps · 2A",
+  "short_name": "Planning 2A",
+  "description": "Planning mobile automatique, détails des cours, statistiques et vacances.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f2e8",
+  "theme_color": "#f6f2e8",
+  "lang": "fr",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

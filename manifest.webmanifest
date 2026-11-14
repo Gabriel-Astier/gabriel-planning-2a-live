@@ -1,0 +1,13 @@
+{
+  "name": "Tempo · Mon planning",
+  "short_name": "Tempo",
+  "description": "Tempo, ton planning mobile : cours, pauses et changements au même endroit.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4efff",
+  "theme_color": "#f4efff",
+  "lang": "fr",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
